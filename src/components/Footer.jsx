@@ -19,7 +19,7 @@ const FooterCom = () => {
                     <Footer.Title title='About' />
                     <Footer.LinkGroup col>
                         <Footer.Link href='https://65c787975289ee74a4113606--gleeful-druid-a7d9c3.netlify.app/' target='_blank' rel='noopener noreferrer'>
-                            Porfolio
+                            Portfolio
                         </Footer.Link>
                     </Footer.LinkGroup>
                     <Footer.LinkGroup col>
